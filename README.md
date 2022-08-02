@@ -1,7 +1,5 @@
-# Matrix
+Solution for a coding exercise on Exercism: https://exercism.org/tracks/go/exercises/matrix
 
-Welcome to Matrix on Exercism's Go Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Instructions
 
@@ -52,30 +50,3 @@ your code should also:
 
 For all operations on the matrix, assume that rows and columns are zero-based.
 This means that first row will be row 0, the second row will be row 1, and so on.
-
-## Source
-
-### Created by
-
-- @soniakeys
-
-### Contributed to by
-
-- @alebaffa
-- @bitfield
-- @brugnara
-- @dvrkps
-- @ekingery
-- @ferhatelmas
-- @hilary
-- @kytrinyx
-- @leenipper
-- @petertseng
-- @robphoenix
-- @sebito91
-- @suzaku
-- @tleen
-
-### Based on
-
-Warmup to the `saddle-points` warmup. - http://jumpstartlab.com
